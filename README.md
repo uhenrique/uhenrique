@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=uhenrique&color=blueviolet&style=flat">
 <div align='center'>
     <a href="https://github.com/uhenrique">
-    <img src='https://github.com/dotOttoni/ArthurHydr/blob/main/hacker-25897.png' height='128px' weidth'128px' target="_blank"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Ulissis%2C+and+I'm+a+Python+DEV">
+    <img src='https://github.com/uhenrique/uhenrique/blob/main/uhenrique.png' height='128px' weidth'128px' target="_blank"><br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=0014FF&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Ulissis+and+I'm+a+physicist">
 </div>
 
 </div>
@@ -13,12 +13,9 @@
    //I used "const" because I'm CONSTantly evolving
    const Me = {
             Skills: "Penetration Tester, Back-end Developer",
-        Main_Langs: "Go, ShellScript, Python",
-      Casual_Langs: "C, C++", 
-         Web_Langs: "Javascript, PHP , SQL",
-          Services: "Apache",
-              Tech: "Git, Docker, NodeJs",
-                SO: "Gentoo",
+        Main_Langs: "Python",
+      Casual_Langs: "C", 
+         Web_Langs: "Javascript"
     };
 
 ```

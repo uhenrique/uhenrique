@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=uhenrique&color=blue&style=flat">
 <div align='center'>
     <a href="https://github.com/uhenrique">
-    <img src='https://github.com/uhenrique/uhenrique/blob/main/uhenrique.png' height='128px' weidth'128px' target="_blank"><br>
+    <img src='https://github.com/uhenrique/uhenrique/blob/main/uhenrique.jpg' height='128px' weidth'128px' target="_blank"><br>
     <img src="https://readme-typing-svg.herokuapp.com?color=006EF7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Ulissis+and+I'm+a+physicist">
 </div>
 
